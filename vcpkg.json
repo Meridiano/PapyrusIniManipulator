@@ -1,0 +1,14 @@
+{
+    "name":  "papyrusinimanipulator",
+    "version-string":  "1.6.0",
+    "description":  "",
+    "license":  "MIT",
+    "dependencies":  [
+                         "spdlog"
+                     ],
+    "features":  {
+                     "mo2-install":  {
+                                         "description":  "PapyrusIniManipulator"
+                                     }
+                 }
+}
